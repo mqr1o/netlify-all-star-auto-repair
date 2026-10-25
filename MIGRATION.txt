@@ -1,0 +1,11 @@
+All Star Auto Repair | Hayward CA Auto Repair | Call (510) 885-0666
+
+Imported from: https://jazzy-lokum-e04d7d.netlify.app
+Netlify project: jazzy-lokum-e04d7d
+Published deployment: 6a16475709e0a8c6e2c73a7d
+Published at: 2026-05-27T01:22:31.780Z
+
+Original deployed files are preserved in the recovery export.
+The main branch uses project-relative asset URLs and disables Jekyll
+processing so this static site can be served by GitHub Pages.
+Historical Netlify project snapshots are kept on named branches.
